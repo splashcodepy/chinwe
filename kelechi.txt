@@ -1,0 +1,2 @@
+different types of data types in python
+name = str(
